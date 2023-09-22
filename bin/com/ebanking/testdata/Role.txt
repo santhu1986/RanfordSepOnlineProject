@@ -1,0 +1,4 @@
+RoleName###Roletype###Results
+cashieraxiss###E
+telleraxiss###E
+poaxiss###E
